@@ -34,6 +34,7 @@ A premium, interactive landing page showcasing high-performance web animations, 
 - `script.js`: The brain of the operation. Houses the `ScrollExperience` class managing the Lenis scroll loop and canvas painting, as well as the event listener math bounding the slider and text overlays.
 - `virat/`: Directory holding the 70 `.jpg` frames used during the hero scrollytelling sequence. 
 - `viratleft.png` / `viratright.jpg`: Media assets utilized for the comparison slider.
+- you can access the animation images from this link: https://drive.google.com/drive/folders/12oOdh_FRKeTDK2zJENw8_CrrSVeXeYDv?usp=sharing
 
 
 
